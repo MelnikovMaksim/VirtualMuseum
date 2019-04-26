@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Virtual Museum</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="large_text">
+        "text"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name= "fkn">
+        "ФКН"
+    </string>
+    <string name="virtual_museum">
+        "ВИРТУАЛЬНЫЙ МУЗЕЙ"
+    </string>
+    <string name="scan">
+        "Сканировать QR"
+    </string>
 </resources>
